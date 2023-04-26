@@ -34,19 +34,7 @@ const speakers = [{
   desc: ' Lisa worked in the oil and gas sector for >17 years and has been closely involved in all aspects of climate change strategy development & implementation.',
   img: './img/lisa-walker-900x600.jpg',
 },
-
-{
-  name: 'Lisa Davis',
-  position: 'Siemens Oil & Gas Responsible',
-  desc: 'Bachelor of Science (B.S.), Chemical Engineering, University of California.',
-  img: './img/lisa-davis-900x600.jpg',
-},
-{
-  name: 'M. Mustapha Bakkoury',
-  position: 'Chairman of the Management Board of Masen and President of the Casablanca-Settat Region, Morocco',
-  desc: 'Master’s degree in banking and finance, Ecole des Ponts et Chaussées, Paris.',
-  img: './img/mustapha-bakkoury-900x600.png',
-}];
+];
 
 const speakersContainer = document.querySelector('#speakers > div');
 

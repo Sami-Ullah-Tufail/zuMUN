@@ -161,7 +161,7 @@ Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters
 The project is being deployed using the github pages
 
 **link**
-https://samiullah12345678.github.io/Portfolio-Website-design.github.io
+https://sami-ullah-tufail.github.io/zuMUN/about.html
 
 
 
@@ -212,9 +212,7 @@ If you like this project please send me an e-mail @ sami.u.tufail@gmail.com
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank microverse and my coding partner
-https://github.com/misikira
-
+credit to Cindy Shin the author of the original design,
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
